@@ -30,9 +30,10 @@
 60 minutos
 
 
-### ✍️ Inscripción
-[Chile-WIC](https://chilewic.cl/) - [Link]( 
-https://docs.google.com/forms/d/e/1FAIpQLSdzr4FZomBAUp_Wu_LsFU8PcVlWZhT5k1xxWsL4Tk9Zb8cztg/viewform)
+### ✍️ LINKS DE INTERÉS 
+
+- [Programa Chile-WIC](https://chilewic.cl/2024/11/23/ya-esta-aqui-conoce-el-programa-completo-de-chilewic-2024/) 
+- [Asociación Chilena de Mujeres en Inteligencia Artificial (I.A.)](https://www.mujeresia.cl/)
 
 #IAÉtica #Fairness #TallerPráctico #InteligenciaArtificial #chilewic #ACM #stem
 
