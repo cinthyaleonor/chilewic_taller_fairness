@@ -1,5 +1,7 @@
 # 🤖 Taller: Ética y Fairness en Inteligencia Artificial
 
+**CONTACTO** : *civergara@alumnos.uai.cl* 
+
 **¡Te invitamos a ser parte del cambio hacia una IA más justa y ética!**
 
 ## 📋 Descripción
