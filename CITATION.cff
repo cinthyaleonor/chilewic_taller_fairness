@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si utiliza este software, por favor cite como se indica."
+title: "Taller de Ética y Fairness en Inteligencia Artificial: Un Caso de Sesgo de Selección"
+version: 1.0.0
+date-released: 2024-11-29
+doi: 10.5281/zenodo.XXXXXXX
+authors:
+  - family-names: Vergara
+    given-names: Cinthya
+    email: civergara@alumnos.uai.cl
+    orcid: https://orcid.org/0000-0000-0000-0000
+keywords:
+  - artificial intelligence
+  - machine learning
+  - fairness
+  - algorithmic bias
+  - ethics
+  - gender bias
+  - selection bias
+  - explainable AI
+  - ChileWIC
+  - Python
+  - scikit-learn
+license: MIT
+repository-code: https://github.com/cinthyaleonor/chilewic_taller_fairness
+abstract: "Este repositorio contiene los materiales del taller 'IA, Ética y Fairness: Un Caso de Sesgo de Selección' presentado en ChileWiC 2024 (XII Encuentro de Mujeres en Computación). El taller aborda los desafíos éticos en aplicaciones de inteligencia artificial y machine learning, con un enfoque práctico en la identificación y mitigación de sesgos algorítmicos. Incluye un caso de estudio sobre sesgos de género en sistemas de contratación, código Python para análisis de fairness, y metodologías para evaluar y corregir disparidades en modelos de machine learning."
+type: software
