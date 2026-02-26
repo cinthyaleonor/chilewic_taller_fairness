@@ -3,7 +3,7 @@ message: "Si utiliza este software, por favor cite como se indica."
 title: "Taller de Ética y Fairness en Inteligencia Artificial: Un Caso de Sesgo de Selección"
 version: 1.0.0
 date-released: 2024-11-29
-doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.18765144
 authors:
   - family-names: Vergara
     given-names: Cinthya

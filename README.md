@@ -1,6 +1,6 @@
 # 🤖 Taller: Ética y Fairness en Inteligencia Artificial
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18765144.svg)](https://doi.org/10.5281/zenodo.18765144)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Taller presentado en ChileWiC 2024 - XII Encuentro de Mujeres en Computación**
@@ -116,7 +116,7 @@ Si utiliza este material en su investigación o trabajo, por favor cite como:
   year = {2024},
   month = {11},
   version = {1.0.0},
-  doi = {10.5281/zenodo.XXXXXXX},
+  doi = {10.5281/zenodo.18765144},
   url = {https://github.com/cinthyaleonor/chilewic_taller_fairness}
 }
 ```

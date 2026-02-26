@@ -61,7 +61,7 @@ If you use this material, please cite as:
   year = {2024},
   month = {11},
   version = {1.0.0},
-  doi = {10.5281/zenodo.XXXXXXX},
+  doi = {10.5281/zenodo.18765144},
   url = {https://github.com/cinthyaleonor/chilewic_taller_fairness}
 }
 ```
